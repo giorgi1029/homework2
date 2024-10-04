@@ -1,0 +1,11 @@
+.Text{
+  width: 250px;
+  height: 80px;
+  background-color: rgb(128, 201, 156);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid black;
+}
+
